@@ -4,14 +4,14 @@
 
 Submitted by: **Steve Kim**
 
-Time spent: **5** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] Settings page to change the default tip percentage.
+* [x] Settings page to change the default tip percentage.
 
 The following **optional** features are implemented:
 * [x] UI animations
@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
+- added a slider menu, usable to navigate to other pages, but just sitting as a credit info page. 
 
 ## Video Walkthrough 
 
