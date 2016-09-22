@@ -21,20 +21,19 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
 - added a slider menu, usable to navigate to other pages, but just sitting as a credit info page. 
 
-## Video Walkthrough 
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/J7ofsPi.gif'  title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Giphy Capture.
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+Coming from python, I didn't understand mvc programming, and to be honest, I still don't. I don't understand why I can't call/control certain variables outside of functions either. 
+
 
 ## License
 
